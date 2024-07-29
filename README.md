@@ -91,16 +91,3 @@ Quiero expresar mi gratitud a los instructores por su excelente enseñanza y apo
 Gracias por proporcionar una experiencia de aprendizaje enriquecedora y por su dedicación a la educación en ciencia de datos.
 
 **#InmersionDatosAlura**
-## Agradecimientos 👏🏻
-
-Este proyecto fue realizado como parte del curso **Inmersión Datos con Python** impartido por **Alura Latam** (@aluralatam) en la Clase 02: Construcción, Evaluación y Selección del Mejor Modelo.
-
-Quiero expresar mi gratitud a los instructores por su excelente enseñanza y apoyo:
-
-- **Álvaro** (@ahcamachod)
-- **Alejandro Gamarra** (@elprofealejo.info)
-- **Christian Velasco** (@christian_pva)
-
-Gracias por proporcionar una experiencia de aprendizaje enriquecedora y por su dedicación a la educación en ciencia de datos.
-
-**#InmersionDatosAlura**
